@@ -4,6 +4,7 @@ import {
   Route,
   Navigate
 } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/Navbar';
 import ClientsPage from './pages/ClientsPage';
 import NewClientPage from './pages/NewClientPage';
