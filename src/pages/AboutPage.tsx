@@ -58,7 +58,7 @@ export default function AboutPage() {
             <div className="card-body p-3">
               <div className="ratio ratio-16x9 rounded overflow-hidden shadow-sm">
                 <iframe
-                  src="https://www.youtube.com/embed/b-h_v3SZ8w8"
+                  src="https://www.youtube.com/embed/7uKQBl9uZ00"
                   title="Tutorial React y Supabase"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
